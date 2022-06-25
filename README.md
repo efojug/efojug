@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @efojug
-- 👀 I’m interested in Minecraft.
-- 🌱 I’m currently learning Minecraft starter development.
-- 💞️ I’m looking to collaborate on friends who develop minecraft launcher together.
+- 👀 I’m interested in android development.
+- 🌱 I’m currently learning java.
+- 💞️ I’m looking to collaborate on friends who develop android apps together.
 - 📫 If you want to contact me, please add my QQ:3307566484 Or send me a private letter on BiliBili:space.bilibili.com/486114326.
 
 <!---
