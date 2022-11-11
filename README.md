@@ -9,4 +9,3 @@
 <a href="https://space.bilibili.com/486114326" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-space.bilibili.com/486114326-blue?style=flat&logo=google-chrome"></a>
 <a href="mailto:lidudu890890@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-lidudu890890@163.com-blue?style=flat&logo=gmail"></a>
 </p>
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
