@@ -9,4 +9,4 @@
 <a href="https://space.bilibili.com/486114326" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-space.bilibili.com/486114326-blue?style=flat&logo=google-chrome"></a>
 <a href="mailto:lidudu890890@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-lidudu890890@163.com-blue?style=flat&logo=gmail"></a>
 </p>
-<audio autoplay="" loop=""> <source src=".\r.mp3"></audio>
+<audio src="r.mp3" autoplay="autoplay" loop="loop" controls="controls" preload="auto"></audio>
