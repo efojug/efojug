@@ -9,4 +9,4 @@
 <a href="https://space.bilibili.com/486114326" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-space.bilibili.com/486114326-blue?style=flat&logo=google-chrome"></a>
 <a href="mailto:lidudu890890@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-lidudu890890@163.com-blue?style=flat&logo=gmail"></a>
 </p>
-<img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/headbang.gif?raw=1" width="20vw" />
+<img alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/hmm.gif?raw=1" width="20vw" />
