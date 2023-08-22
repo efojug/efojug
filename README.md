@@ -6,5 +6,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efojug&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
 <a href="https://space.bilibili.com/486114326" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-space.bilibili.com/486114326-blue?style=flat&logo=google-chrome"></a>
-<a href="mailto:lidudu890890@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-lidudu890890@163.com-blue?style=flat&logo=gmail"></a>
+[![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
 </p>
