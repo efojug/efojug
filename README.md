@@ -8,3 +8,4 @@
 <p align="center">
 <a href="https://space.bilibili.com/486114326" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-space.bilibili.com/486114326-blue?style=flat&logo=google-chrome"></a>
 </p>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
